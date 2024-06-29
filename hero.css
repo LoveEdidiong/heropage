@@ -1,0 +1,172 @@
+.container{
+        
+    background-color: blue;
+    height: 100vh;
+    padding: 0 10% 0 10%;
+}
+
+.nav{
+    justify-content: right;
+    display: inline-flex;
+    list-style-type: none;
+      
+}
+.we{
+    color: white;
+}
+
+
+
+.logo{
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+    text-decoration: none;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.nav-link {
+    color: white;
+    margin-left: 60px;
+    text-decoration: none;    
+}
+
+.hero-content {        
+    color: white;
+    font-size: 2.3rem;
+}
+
+#more{
+    margin-right: 70px;
+    nav-down: current;   
+}
+
+.btn{
+    
+    border-radius: 30px;
+    margin-left: 40px;
+    margin-top: 0%;
+    padding: 10px;
+    cursor: pointer;
+    background-color: aqua;
+}
+
+.latest{
+    background-color: white;
+    padding: 10px;
+}
+
+.what{
+    background-color: blue;
+   padding: 10px;
+   display: inline;
+}
+
+.gridcontainer { 
+background-color: aqua;
+inline-size: 10px;
+height: 10px;
+padding: 10px;
+margin-left: 100%;  
+
+}
+
+.grid{
+background-color: yellow;
+display: inline-flex; 
+padding: 10px;
+margin-left: 98%;
+}
+
+
+/* collaboration section  */
+svg{
+    margin-left: 150px;
+}
+
+.her{
+/* background-color: brown; */
+height: 100vh;
+margin: 0%;
+padding: 0%;
+
+
+}
+
+.love{
+
+padding: 9% 10% 5% 10%;
+
+}
+
+
+.you{
+padding-left: 90px;
+
+
+}
+.lem{
+color: blue;
+background-color: black;
+text-align: right;
+}
+
+.box{
+
+}
+
+/* Innovation */
+#gridcontainer{
+/* background-color: aqua; */
+display: grid;
+grid-template-columns: auto auto auto; 
+gap: 2rem;
+}
+
+/* picture side */
+.last{
+padding: 0 0 0 0;
+}
+.wed{
+background-color: bisque;
+height: 299px;
+width: 330px;
+margin-left: 550px;
+
+
+}
+.bew{
+background-color: lightgrey;
+height: 50px;
+width: 200px;
+margin-top: 249px;
+
+
+
+
+
+}
+.pit{
+/* background-color: blueviolet; */
+display: grid;
+grid-template-columns: auto auto auto;
+
+padding: 0 0 0 10%;
+
+}
+#top{ margin-left: 40%;
+position: absolute;
+margin-top: 80px;
+
+
+      
+}
+.ret{
+margin: 90px 0 0 0;
+width: 170%;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+font-size: 3rem;
+}
